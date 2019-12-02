@@ -3,13 +3,13 @@ Hoping to engineer a robot arm
 
 
 # goal 
-     - assembly ass easy as possible considering all criteria
-        so it has to have as little as possible part count
-     - can be 3d printed by de arm itself
-        so the arm has to have a certain prediction
-        the reach has to be big enough
-     - should have de x y print size of a ender 3 and the z of (5 cm? or something)
-     - would also be cool if to make a robotic hand for it with which it did everything.(future thingy)
+- assembly ass easy as possible considering all criteria
+    so it has to have as little as possible part count
+- can be 3d printed by de arm itself
+    so the arm has to have a certain prediction
+    the reach has to be big enough
+- should have de x y print size of a ender 3 and the z of (5 cm? or something)
+- would also be cool if to make a robotic hand for it with which it did everything.(future thingy)
 
 # something 
 
@@ -20,45 +20,46 @@ Hoping to engineer a robot arm
   
 # brainstorming
 
- ## computing
-      depends on maximum allowed computing latency(for example with encoder feedback in application like 3d printing)
-      depends on co3de size
-      depends on amount of data to process( for example In encoder feedback)
-      depends
-      maybe i should put this with the feedback type
-      fpga
-      [fpga options and prices mouser](https://nl.mouser.com/Semiconductors/Integrated-Circuits-ICs/Embedded-Processors-Controllers/FPGA-Field-Programmable-Gate-Array/_/N-aw9vv)
+## computing
+depends on maximum allowed computing latency(for example with encoder feedback in application like 3d printing)
+depends on co3de size
+depends on amount of data to process( for example In encoder feedback)
+depends
+maybe i should put this with the feedback type
+
+fpga
+[fpga options and prices mouser](https://nl.mouser.com/Semiconductors/Integrated-Circuits-ICs/Embedded-Processors-Controllers/FPGA-Field-Programmable-Gate-Array/_/N-aw9vv)
       
-      CPU
+CPU
       
-      micro processor
+micro controller
+[micro crontroller options and prices](https://nl.mouser.com/Semiconductors/Integrated-Circuits-ICs/Embedded-Processors-Controllers/Microcontrollers-MCU/_/N-a86ge)
    
 ## actuation
-   [robotics wiki help](https://en.m.wikipedia.org/wiki/Robotics)
-      motor
-         type
-            stepper
+[robotics wiki help](https://en.m.wikipedia.org/wiki/Robotics)
+
+motor
+  type
+    stepper
+    brushed
+    brushless
             
-            brushed
-            
-            brushless
-            
-         transmisssion
-         chain
+transmisssion
+  chain
          
-         belt
-         [cs235 Stanford belts youtube](https://youtu.be/cdvP_sGjijA)
+  belt
+    [cs235 Stanford belts youtube](https://youtu.be/cdvP_sGjijA)
          
-         gear
-         [cs235 Stanford introduction to gears somewhere in youtube video](https://youtu.be/uo0ABUSFpFg)
-         [cs235 Stanford gears youtube](https://youtu.be/mwGYlefXWGg)
+  gear
+    [cs235 Stanford introduction to gears somewhere in youtube video](https://youtu.be/uo0ABUSFpFg)
+    [cs235 Stanford gears youtube](https://youtu.be/mwGYlefXWGg)
          
-         cable
-         [cs235 Stanford cable introduction](https://youtu.be/jKZIvseA1Nk)
-         [cs235 Stanford cable push poll cable/sheath(?) youtube](https://youtu.be/UPgnfYLZzqE)
+  cable
+    [cs235 Stanford cable introduction](https://youtu.be/jKZIvseA1Nk)
+    [cs235 Stanford cable push poll cable/sheath(?) youtube](https://youtu.be/UPgnfYLZzqE)
          
-         friction
-         [cs235 contains friction transmision yourube](https://youtu.be/HJYxOjNp2wM)
+  friction
+    [cs235 contains friction transmision yourube](https://youtu.be/HJYxOjNp2wM)
          
       
       artificial muscle
