@@ -13,8 +13,7 @@ Hoping to engineer a robot arm
 
 # something 
 
-3d printing dimensional tuning
-  https://youtu.be/0dFThbwAx2Y
+[3d printing dimensional tuning](https://youtu.be/0dFThbwAx2Y)
   
 [robotics wiki](https://en.m.wikipedia.org/wiki/Robotics)
 
