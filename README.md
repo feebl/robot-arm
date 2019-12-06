@@ -116,7 +116,7 @@ artificial muscle
 ##### cable
 [cs235 Stanford cable introduction](https://youtu.be/jKZIvseA1Nk)
 [cs235 Stanford cable push poll cable/sheath(?) youtube](https://youtu.be/UPgnfYLZzqE)
-
+[pulley system youtube](https://youtu.be/M2w3NZzPwOM)
 ##### friction
 [cs235 contains friction transmision yourube](https://youtu.be/HJYxOjNp2wM)
 
